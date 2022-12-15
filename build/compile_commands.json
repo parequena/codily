@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/pablo/codily/build",
-  "command": "/usr/bin/clang++ -g -D_GLIBCXX_DEBUG -std=gnu++14 -o CMakeFiles/codily.dir/main3.cpp.o -c /home/pablo/codily/main3.cpp",
-  "file": "/home/pablo/codily/main3.cpp"
-}
-]

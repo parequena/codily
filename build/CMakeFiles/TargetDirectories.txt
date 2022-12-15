@@ -1,5 +1,0 @@
-/home/pablo/codily/build/CMakeFiles/codily.dir
-/home/pablo/codily/build/CMakeFiles/package.dir
-/home/pablo/codily/build/CMakeFiles/package_source.dir
-/home/pablo/codily/build/CMakeFiles/edit_cache.dir
-/home/pablo/codily/build/CMakeFiles/rebuild_cache.dir
